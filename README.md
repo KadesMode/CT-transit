@@ -6,7 +6,7 @@ no build step, no server, no dependencies.
 
 ## Live Demo
 
-**[Open on your phone →](https://jaimin001607.github.io/transit-ticket-app/)**
+**[Open on your phone →](https://jaimin001607.github.io/CT-transit/)**
 
 Works in mobile Safari, Chrome, and any modern browser.
 
